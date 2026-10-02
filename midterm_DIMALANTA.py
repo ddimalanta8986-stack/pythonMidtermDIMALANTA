@@ -1,4 +1,4 @@
-FILE_NAME = "sales_log.txt"
+FILE_NAME = "midterm_DIMALANTA"
 
 
 def display_menu():
