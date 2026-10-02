@@ -1,4 +1,4 @@
-FILE_NAME = "midterm_DIMALANTA.py"
+FILE_NAME = "sales_log.txt"
 
 
 def display_menu():
@@ -134,4 +134,3 @@ def main():
         print()
 
 main()
-
